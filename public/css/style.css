@@ -1,0 +1,11 @@
+.notification-bell{
+    margin-top: 5px;
+  }
+  
+  .notification-badge{
+    position: absolute !important;
+  }
+
+  span.badge.badge-primary.badge-pill.notfication-badge {
+    position: absolute !important;
+  }
